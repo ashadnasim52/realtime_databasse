@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "744613370336",
+    "firebase_url": "https://realtime-1c9b3.firebaseio.com",
+    "project_id": "realtime-1c9b3",
+    "storage_bucket": "realtime-1c9b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744613370336:android:f1605850afba6cfc",
+        "android_client_info": {
+          "package_name": "com.madebyasshad.realtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744613370336-v90ari3c65g0sj8iq22umtqhos1ea90a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madebyasshad.realtime",
+            "certificate_hash": "f4f1e2824e5ce975115ea1bc03dd7ea160c1f6fa"
+          }
+        },
+        {
+          "client_id": "744613370336-79o2khcb1muk656id3o00bcd1887sb6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBO5XLy71aI0-VvM95f6TXkrmtuirCVyA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744613370336-79o2khcb1muk656id3o00bcd1887sb6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
